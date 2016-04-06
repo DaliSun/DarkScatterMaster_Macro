@@ -1,33 +1,49 @@
 # DarkScatterMaster
+
 ## Installation
 - Download the macro from [Download Sites][dls]
 - Select "Macro/Install..." from "Plugins" menu.
 - Run "DarkScatterMaster" from "Plugins" menu.
+
 ## Input Parametors
+
 ### ROI configuration
+
 #### Disable ROI
 Check to diable ROI function. This will select whole image area.
+
 #### Contour Threshold
 Threshold to set circled ROI area.
+
 #### Center Scale
 Shrink the circle selection to the designated scale centrally.
+
 ### Quantification Configuration
+
 #### Disable DSM
 Disable DSM quantification and change to Intensity Average only without filtering processing.
+
 #### Type
 Chose from Red, Green and Enhanced for scatter color.
+
 #### Low limit
 Low limit of the thresholding selection.
+
 #### High limit
 High limit of the thresholding selection.
+
 ### Other Parameters
+
 #### Output Filtered Images
 Check to output Filtered Images (Fo).If checked a output folder will be asked later.
+
 #### Single mode
 Check to work with single image. Default is in batch mode for a folder, and need to select a target image foler later.
+
 ## License
 The macro is released under the GNU General Public License.
 Please kindly cite our [paper] [pl]
+
 ## Author
 Dali Sun, dsun at houstonmethodist.org
 
